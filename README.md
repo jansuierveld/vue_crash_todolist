@@ -6,4 +6,3 @@ Published with netlify. See https://fervent-tesla-b13834.netlify.com/#/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
- 
